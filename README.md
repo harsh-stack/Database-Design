@@ -1,7 +1,5 @@
 # University Database Design (CIS Database Course)
-[
-[
-[
+
 
 Database Design Course assignment: Complete ER → Logical → Physical transformation of University Database using ERwin Data Modeler. Features 6 entities, 9 relationships (including M:N), referential integrity triggers, and production-ready DDL.
 ​
